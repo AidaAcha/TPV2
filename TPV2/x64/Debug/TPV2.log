@@ -1,0 +1,1 @@
+﻿C:\Users\Aida\Downloads\TPV2\TPV2.vcxproj(120,5): error MSB4019: No se encontró el proyecto "C:\Users\Aida\Downloads\SDLProject.props" importado. Confirme que la expresión de la declaración Import "..\SDLProject.props" es correcta y que el archivo existe en el disco.
